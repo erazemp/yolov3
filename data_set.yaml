@@ -6,4 +6,4 @@ val: /coco/images/train/
 nc: 1
 
 # class names
-names:["ear"]
+names: ["ear"]
