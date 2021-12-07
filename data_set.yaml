@@ -1,6 +1,7 @@
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: /coco/images/train/
-val: /coco/images/train/
+train: coco/images/train/
+val: coco/images/train/
+test: coco/images/test/
 
 # number of classes
 nc: 1
